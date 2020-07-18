@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49f2e925-25bd-4902-a655-ca4fd641212f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/API/mockBalalay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Container/Balalay/Balalay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Container/Main/Main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Container/Main/Main.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/Balalayka/Balalayka.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/Balalayka/Balalayka.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
-    </list>
+    <list default="true" id="49f2e925-25bd-4902-a655-ca4fd641212f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,18 +68,34 @@
       <workItem from="1595085379458" duration="898000" />
       <workItem from="1595086469982" duration="3569000" />
       <workItem from="1595090081406" duration="1614000" />
-      <workItem from="1595091951639" duration="6407000" />
+      <workItem from="1595091951639" duration="6606000" />
     </task>
+    <task id="LOCAL-00001" summary="sdsdsd">
+      <created>1595098968181</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595098968181</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sdsdsd" />
+    <option name="LAST_COMMIT_MESSAGE" value="sdsdsd" />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595092397536">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1595092397536" />
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1595098966000">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595098966000" />
     <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1595095161900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -118,5 +116,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595090054105" />
+    <state x="275" y="89" key="Vcs.Push.Dialog.v2" timestamp="1595099131882">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="89" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595099131882" />
   </component>
 </project>
