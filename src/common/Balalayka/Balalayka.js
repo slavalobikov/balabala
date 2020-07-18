@@ -11,7 +11,7 @@ const Balalayka = ({name, img, description, id}) => {
                 {description}
             </div>
             <button>Купить</button>
-            <Link to={`/hello/${id}`}>
+            <Link to={`/balalay/${id}`}>
                 <button>Подробнее</button>
             </Link>
 
