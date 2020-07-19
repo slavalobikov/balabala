@@ -6,6 +6,7 @@ import {
 import Main from "./Container/Main/Main";
 import Balalay from "./Container/Balalay/Balalay";
 import Basket from "./Container/Basket/Basket";
+import UserProfile from "./Container/UserProfile/UserProfile";
 
 export default () => {
     return (
@@ -13,6 +14,7 @@ export default () => {
             <Route path={'/'} component={Main} exact />
             <Route path={'/balalay/:slug'} component={Balalay}  />
             <Route path={'/basket/:slug'} component={Basket}  />
+            <Route path={'/profile/:slug'} component={UserProfile} ></Route>
         </Switch>
     )
 }

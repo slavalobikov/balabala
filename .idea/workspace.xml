@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49f2e925-25bd-4902-a655-ca4fd641212f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Container/Basket/Basket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hooks/useFetch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hooks/useFetchLogin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hooks/useLocalStorage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/ErrorMessage/Error-message.js" afterDir="false" />
+    <list default="true" id="49f2e925-25bd-4902-a655-ca4fd641212f" name="Default Changelist" comment="Response">
+      <change afterPath="$PROJECT_DIR$/src/Container/Feed/Feed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Container/Feed/Feed.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Container/UserProfile/UserProfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Container/UserProfile/components/UserArticles/UserArticles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/Paginator/Paginator.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/Paginator/Paginator.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Container/Balalay/Balalay.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Container/Balalay/Balalay.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/AboutBalalayka/AboutBalalayka.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/AboutBalalayka/AboutBalalayka.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/AboutBalalayka/AboutBalalayka.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/AboutBalalayka/AboutBalalayka.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Balalayka/Balalayka.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Balalayka/Balalayka.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/common" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -48,10 +48,10 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\balabala\src\common" />
-      <recent name="D:\balabala\src\Hooks" />
       <recent name="D:\balabala\src" />
+      <recent name="D:\balabala\src\Container" />
+      <recent name="D:\balabala\src\Hooks" />
       <recent name="D:\balabala\src\Container\Balalay" />
-      <recent name="D:\balabala\src\common\AboutBalalayka" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -84,7 +84,8 @@
       <workItem from="1595090081406" duration="1614000" />
       <workItem from="1595091951639" duration="6972000" />
       <workItem from="1595100369696" duration="5269000" />
-      <workItem from="1595106222766" duration="10344000" />
+      <workItem from="1595106222766" duration="11374000" />
+      <workItem from="1595166364285" duration="1105000" />
     </task>
     <task id="LOCAL-00001" summary="sdsdsd">
       <created>1595098968181</created>
@@ -107,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595104095728</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Response">
+      <created>1595165323375</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595165323375</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,17 +124,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sdsdsd" />
     <MESSAGE value="More info about balalayka" />
-    <option name="LAST_COMMIT_MESSAGE" value="More info about balalayka" />
+    <MESSAGE value="Response" />
+    <option name="LAST_COMMIT_MESSAGE" value="Response" />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595105471624">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1595105471624" />
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1595165320143">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1595167507819">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595165320143" />
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595167507819" />
     <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1595095161900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -151,10 +160,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595090054105" />
-    <state x="275" y="89" key="Vcs.Push.Dialog.v2" timestamp="1595104097912">
+    <state x="275" y="89" key="Vcs.Push.Dialog.v2" timestamp="1595165333574">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="89" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595104097912" />
+    <state x="275" y="89" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595165333574" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1595103718768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
