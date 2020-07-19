@@ -1,4 +1,20 @@
-.grid {
+.bottomGrid {
+    display: grid;
+    grid-template-columns: 7fr 1fr;
+}
+
+.gridLeft {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+
+.img {
+    height: auto;
+    width: auto;
+}
+
+.about {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
